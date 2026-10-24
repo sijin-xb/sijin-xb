@@ -35,8 +35,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sijin-xb&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=e6edf3&text_color=9b9ea3&icon_color=6cb6ff" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sijin-xb&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=0969da" alt="stats" width="405" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sijin-xb&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=9b9ea3&icon_color=6cb6ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sijin-xb&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=0969da" alt="stats" width="405" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sijin-xb&hide_border=true&background=00000000&border=00000000&stroke=00000000&ring=6cb6ff&fire=f0883e&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=6cb6ff&sideLabels=9b9ea3&dates=6e7681" />
