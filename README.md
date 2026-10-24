@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=CBA6F7&center=true&vCenter=true&width=800&height=60&lines=hi,+i'm+xibielemn;scrollable+tiling+%C2%B7+material+you;building+tools+in+go+%26+rust;TUIs,+configs+%26+clean+dotfiles" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=8839EF&center=true&vCenter=true&width=800&height=60&lines=hi,+i'm+xibielemn;scrollable+tiling+%C2%B7+material+you;building+tools+in+go+%26+rust;TUIs,+configs+%26+clean+dotfiles" alt="typing" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=CBA6F7&center=true&vCenter=true&width=800&height=60&lines=hi,+i'm+xibielemn;two+compositors,+one+shell;building+tools+in+go+%26+rust;TUIs,+configs+%26+clean+dotfiles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=8839EF&center=true&vCenter=true&width=800&height=60&lines=hi,+i'm+xibielemn;two+compositors,+one+shell;building+tools+in+go+%26+rust;TUIs,+configs+%26+clean+dotfiles" alt="typing" />
 </picture>
 
 <picture>
@@ -14,7 +14,7 @@
 
 <h3 align="center"><samp>about</samp></h3>
 
-- 🖥️ daily driving **niri** + **DankMaterialShell** — my desktop lives in [**dotfiles**](https://github.com/sijin-xb/dotfiles), 52 ⭐ and counting
+- 🖥️ daily driving **niri** & **Hyprland** on **DankMaterialShell** — my desktop lives in [**dotfiles**](https://github.com/sijin-xb/dotfiles), 52 ⭐ and counting
 - 🩹 shipping [**dms-patches**](https://github.com/sijin-xb/dms-patches) — QML fixes for DMS volume curve, clipboard sessions & wallpaper zoom
 - 🦀 [**kugou-tui**](https://github.com/sijin-xb/kugou-tui) — a **Rust** TUI music player
 - ⚙️ [**xibie2api**](https://github.com/sijin-xb/xibie2api) — a multi-protocol AI API gateway in **Go**
@@ -65,5 +65,5 @@
 </div>
 
 <div align="center">
-  <samp>niri · quickshell · fish · nvim</samp>
+  <samp>niri · hyprland · quickshell · fish · nvim</samp>
 </div>
